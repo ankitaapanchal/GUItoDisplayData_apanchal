@@ -376,7 +376,4 @@ func findLocation(city string) *geo.Location {
 	return locationData
 }
 
-/*I referred to the following resources to complete this project:
-Your Project2 code
-Paultje52 Repository
-ChatGPT */
+
